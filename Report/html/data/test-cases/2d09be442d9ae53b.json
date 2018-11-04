@@ -1,0 +1,60 @@
+{
+  "uid" : "2d09be442d9ae53b",
+  "name" : "TestBn.test_001[jinboo-ly521521-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "fullName" : "test_bn.TestBn.test_001[jinboo-ly521521-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "historyId" : "ec09be47c805e8cfcadef8670e3fb32e",
+  "time" : {
+    "start" : 1541224853078,
+    "stop" : 1541224856590,
+    "duration" : 3512
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QF4442N"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "11488-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_bn"
+  }, {
+    "name" : "testClass",
+    "value" : "test_bn"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBn.test_001[jinboo-ly521521-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]"
+  }, {
+    "name" : "package",
+    "value" : "test_bn"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d09be442d9ae53b.json",
+  "parameterValues" : [ ]
+}

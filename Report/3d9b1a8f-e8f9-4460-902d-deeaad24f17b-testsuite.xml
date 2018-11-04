@@ -1,0 +1,102 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1541224709493" stop="1541224860103">
+  <name>test_bn</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1541224709493" status="passed" stop="1541224755034">
+      <name>TestBn.test_001[15890388831-ly521521-jinbobo-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541224755036" status="passed" stop="1541224785713">
+      <name>TestBn.test_001[jinbobo-ly521521-jinbo-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541224785714" status="passed" stop="1541224815951">
+      <name>TestBn.test_001[ 15890388831 -ly521521-jinbobo-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541224815952" status="passed" stop="1541224845552">
+      <name>TestBn.test_001[ jinbobo -ly521521-jinbobo-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541224845553" status="passed" stop="1541224849612">
+      <name>TestBn.test_001[158903888311-ly5215-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541224849613" status="passed" stop="1541224853077">
+      <name>TestBn.test_001[15890388831-ly52152121-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541224853078" status="passed" stop="1541224856590">
+      <name>TestBn.test_001[jinboo-ly521521-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1541224856591" status="passed" stop="1541224860103">
+      <name>TestBn.test_001[jinbobo-ly52120-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11488-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

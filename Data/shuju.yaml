@@ -1,0 +1,32 @@
+Kai_shi_test001:
+  username: "15890388831"
+  password: "ly521521"
+  expect_result: "jinbobo"
+Kai_shi_test002:
+  username: "jinbobo"
+  password: "ly521521"
+  expect_result: "jinbo"
+Kai_shi_test003:
+  username: " 15890388831 "
+  password: "ly521521"
+  expect_result: "jinbobo"
+Kai_shi_test004:
+  username: " jinbobo "
+  password: "ly521521"
+  expect_result: "jinbobo"
+Kaishi_test005:
+  username: "158903888311"
+  password: "ly5215"
+  expect_toast: "此用户不存在"
+Kaishi_test006:
+  username: "15890388831"
+  password: "ly52152121"
+  expect_toast: "登录密码错误"
+kaishi_test007:
+  username: "jinboo"
+  password: "ly521521"
+  expect_toast: "此用户不存在"
+kaishi_test008:
+  username: "jinbobo"
+  password: "ly52120"
+  expect_toast: "登录密码错误"

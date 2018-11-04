@@ -1,0 +1,101 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "TestBn.test_001[15890388831-ly521521-jinbobo-None]",
+    "uid" : "308fceac68849cbf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224709493,
+      "stop" : 1541224755034,
+      "duration" : 45541
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestBn.test_001[jinbobo-ly521521-jinbo-None]",
+    "uid" : "e0e74129f5498016",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224755036,
+      "stop" : 1541224785713,
+      "duration" : 30677
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestBn.test_001[ 15890388831 -ly521521-jinbobo-None]",
+    "uid" : "733acbdcd172f8a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224785714,
+      "stop" : 1541224815951,
+      "duration" : 30237
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestBn.test_001[ jinbobo -ly521521-jinbobo-None]",
+    "uid" : "5d437a1ef8cf832a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224815952,
+      "stop" : 1541224845552,
+      "duration" : 29600
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestBn.test_001[158903888311-ly5215-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+    "uid" : "b665240e90eee40c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224845553,
+      "stop" : 1541224849612,
+      "duration" : 4059
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestBn.test_001[15890388831-ly52152121-None-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+    "uid" : "b797f686eb1daf07",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224849613,
+      "stop" : 1541224853077,
+      "duration" : 3464
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestBn.test_001[jinboo-ly521521-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+    "uid" : "2d09be442d9ae53b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224853078,
+      "stop" : 1541224856590,
+      "duration" : 3512
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestBn.test_001[jinbobo-ly52120-None-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+    "uid" : "ca8f9e64fc941f4d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1541224856591,
+      "stop" : 1541224860103,
+      "duration" : 3512
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
